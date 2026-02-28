@@ -1,0 +1,40 @@
+<svg width="900" height="620" viewBox="0 0 900 620" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Evidence-based wellbeing illustration with Oxford cue</title>
+  <desc id="desc">Wearable metrics and nutrition chart with subtle Oxford skyline and river line.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="620" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1F5A63"/>
+      <stop offset="1" stop-color="#123B56"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="620" rx="30" fill="url(#bg)"/>
+  <circle cx="742" cy="120" r="120" fill="#76CDB2" opacity="0.25"/>
+  <circle cx="146" cy="504" r="160" fill="#F4CF8B" opacity="0.2"/>
+
+  <rect x="86" y="102" width="728" height="424" rx="28" fill="#FAFCFA"/>
+  <rect x="134" y="156" width="226" height="158" rx="20" fill="#EEF7F1"/>
+  <rect x="392" y="156" width="374" height="158" rx="20" fill="#EEF7F1"/>
+  <rect x="134" y="338" width="632" height="140" rx="20" fill="#EEF7F1"/>
+
+  <circle cx="194" cy="234" r="45" stroke="#0F8A8D" stroke-width="10"/>
+  <path d="M194 198V236L220 250" stroke="#0F8A8D" stroke-width="10" stroke-linecap="round"/>
+  <path d="M430 252H720" stroke="#B9D8CC" stroke-width="12" stroke-linecap="round"/>
+  <path d="M430 214H664" stroke="#B9D8CC" stroke-width="12" stroke-linecap="round"/>
+
+  <path d="M170 424C224 380 268 374 322 424C370 467 422 467 484 406C520 370 590 364 678 430" stroke="#0F8A8D" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="170" cy="424" r="13" fill="#0F8A8D"/>
+  <circle cx="322" cy="424" r="13" fill="#0F8A8D"/>
+  <circle cx="484" cy="406" r="13" fill="#F2B84B"/>
+  <circle cx="678" cy="430" r="13" fill="#0F8A8D"/>
+
+  <path d="M130 550C208 526 258 514 336 536C411 557 470 573 560 548C641 526 702 521 770 541" stroke="#D9EDF4" stroke-opacity="0.45" stroke-width="7" stroke-linecap="round"/>
+
+  <path d="M118 528H782" stroke="#D9EDF4" stroke-opacity="0.35" stroke-width="4"/>
+  <path d="M278 528V490H318V528H278Z" fill="#D9EDF4" fill-opacity="0.3"/>
+  <path d="M298 462L316 490H280L298 462Z" fill="#F2B84B" fill-opacity="0.72"/>
+  <path d="M474 528V498H516V528H474Z" fill="#D9EDF4" fill-opacity="0.28"/>
+  <path d="M495 474L516 498H474L495 474Z" fill="#D9EDF4" fill-opacity="0.28"/>
+  <path d="M640 528V496H688V528H640Z" fill="#D9EDF4" fill-opacity="0.28"/>
+  <path d="M664 468L688 496H640L664 468Z" fill="#D9EDF4" fill-opacity="0.28"/>
+</svg>

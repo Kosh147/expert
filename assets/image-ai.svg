@@ -1,0 +1,42 @@
+<svg width="900" height="620" viewBox="0 0 900 620" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">AI and data science illustration with Oxford cue</title>
+  <desc id="desc">Neural network nodes over data cards with an Oxford location marker.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="620" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#102F48"/>
+      <stop offset="1" stop-color="#1F5E82"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="620" rx="30" fill="url(#bg)"/>
+  <circle cx="782" cy="72" r="122" fill="#2F83AF" opacity="0.3"/>
+  <circle cx="110" cy="560" r="148" fill="#0F8A8D" opacity="0.28"/>
+
+  <rect x="98" y="118" width="314" height="384" rx="24" fill="#F8FBFC"/>
+  <rect x="454" y="118" width="348" height="384" rx="24" fill="#F8FBFC"/>
+  <rect x="136" y="168" width="240" height="18" rx="9" fill="#CFE6F1"/>
+  <rect x="136" y="207" width="212" height="18" rx="9" fill="#CFE6F1"/>
+  <rect x="136" y="246" width="256" height="18" rx="9" fill="#CFE6F1"/>
+  <rect x="136" y="285" width="188" height="18" rx="9" fill="#CFE6F1"/>
+
+  <circle cx="578" cy="228" r="34" fill="#0F8A8D"/>
+  <circle cx="704" cy="202" r="24" fill="#F2B84B"/>
+  <circle cx="702" cy="314" r="30" fill="#0F8A8D"/>
+  <circle cx="562" cy="330" r="22" fill="#F2B84B"/>
+  <circle cx="640" cy="418" r="20" fill="#0F8A8D"/>
+  <path d="M578 228L704 202" stroke="#0F8A8D" stroke-width="6"/>
+  <path d="M578 228L702 314" stroke="#0F8A8D" stroke-width="6"/>
+  <path d="M702 314L562 330" stroke="#0F8A8D" stroke-width="6"/>
+  <path d="M562 330L640 418" stroke="#0F8A8D" stroke-width="6"/>
+  <path d="M702 314L640 418" stroke="#0F8A8D" stroke-width="6"/>
+
+  <path d="M736 74C736 58 749 45 765 45C781 45 794 58 794 74C794 96 765 121 765 121C765 121 736 96 736 74Z" fill="#F2B84B"/>
+  <circle cx="765" cy="74" r="8" fill="#102F48"/>
+  <text x="804" y="82" fill="#E8F4FA" font-family="'Manrope', 'Arial', sans-serif" font-size="24" font-weight="700">Oxford</text>
+
+  <path d="M96 530H804" stroke="#D5EBF5" stroke-opacity="0.36" stroke-width="4"/>
+  <path d="M250 530V498H286V530H250Z" fill="#D5EBF5" fill-opacity="0.3"/>
+  <path d="M268 470L286 498H250L268 470Z" fill="#F2B84B" fill-opacity="0.7"/>
+  <path d="M598 530V500H638V530H598Z" fill="#D5EBF5" fill-opacity="0.3"/>
+  <path d="M618 476L638 500H598L618 476Z" fill="#D5EBF5" fill-opacity="0.3"/>
+</svg>

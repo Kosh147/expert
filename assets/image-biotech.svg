@@ -1,0 +1,41 @@
+<svg width="900" height="620" viewBox="0 0 900 620" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Biotechnology illustration with Oxford skyline hint</title>
+  <desc id="desc">DNA helix and molecular nodes with a subtle Oxford-style skyline.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="620" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#123B56"/>
+      <stop offset="1" stop-color="#0F8A8D"/>
+    </linearGradient>
+    <linearGradient id="dna" x1="240" y1="110" x2="650" y2="500" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F6D08E"/>
+      <stop offset="1" stop-color="#FDEFD3"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="620" rx="30" fill="url(#bg)"/>
+  <circle cx="128" cy="128" r="138" fill="#4BC3B8" opacity="0.2"/>
+  <circle cx="790" cy="528" r="168" fill="#FFDFA5" opacity="0.2"/>
+
+  <path d="M275 130C376 205 511 415 624 490" stroke="url(#dna)" stroke-width="12" stroke-linecap="round"/>
+  <path d="M620 130C519 205 384 415 271 490" stroke="url(#dna)" stroke-width="12" stroke-linecap="round"/>
+  <path d="M322 180H573" stroke="#EAF6FC" stroke-width="8" stroke-linecap="round"/>
+  <path d="M298 242H597" stroke="#EAF6FC" stroke-width="8" stroke-linecap="round"/>
+  <path d="M286 304H609" stroke="#EAF6FC" stroke-width="8" stroke-linecap="round"/>
+  <path d="M298 367H597" stroke="#EAF6FC" stroke-width="8" stroke-linecap="round"/>
+  <path d="M322 428H573" stroke="#EAF6FC" stroke-width="8" stroke-linecap="round"/>
+
+  <circle cx="156" cy="418" r="18" fill="#F5D48F"/>
+  <circle cx="228" cy="472" r="14" fill="#F5D48F"/>
+  <circle cx="206" cy="388" r="10" fill="#F5D48F"/>
+  <path d="M156 418L228 472" stroke="#F5D48F" stroke-width="4"/>
+  <path d="M156 418L206 388" stroke="#F5D48F" stroke-width="4"/>
+  <path d="M206 388L228 472" stroke="#F5D48F" stroke-width="4"/>
+
+  <path d="M86 542H814" stroke="#D8EDF5" stroke-opacity="0.42" stroke-width="4"/>
+  <path d="M268 542V500H308V542H268Z" fill="#D8EDF5" fill-opacity="0.34"/>
+  <path d="M288 468L306 500H270L288 468Z" fill="#F2B84B" fill-opacity="0.75"/>
+  <path d="M442 542V508H486V542H442Z" fill="#D8EDF5" fill-opacity="0.3"/>
+  <path d="M464 484L486 508H442L464 484Z" fill="#D8EDF5" fill-opacity="0.3"/>
+  <path d="M614 542V506H662V542H614Z" fill="#D8EDF5" fill-opacity="0.3"/>
+  <path d="M638 476L662 506H614L638 476Z" fill="#D8EDF5" fill-opacity="0.3"/>
+</svg>

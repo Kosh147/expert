@@ -1,0 +1,61 @@
+<svg width="1400" height="900" viewBox="0 0 1400 900" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Oxford Expert learning visual with Oxford city hints</title>
+  <desc id="desc">Scientific and digital learning illustration with a subtle Oxford skyline and location marker.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D3653"/>
+      <stop offset="1" stop-color="#11496B"/>
+    </linearGradient>
+    <linearGradient id="card" x1="310" y1="190" x2="900" y2="760" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FDFCF8" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#F4E9D4" stop-opacity="0.9"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#58D2C9"/>
+      <stop offset="1" stop-color="#F2C067"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1400" height="900" rx="40" fill="url(#bg)"/>
+  <circle cx="220" cy="160" r="280" fill="#1E658E" opacity="0.35"/>
+  <circle cx="1180" cy="820" r="300" fill="#0F8A8D" opacity="0.35"/>
+
+  <path d="M190 792H1210" stroke="#8FB6CB" stroke-opacity="0.35" stroke-width="4"/>
+  <path d="M260 792V736H300V792H260Z" fill="#D9EDF5" fill-opacity="0.35"/>
+  <path d="M280 700L298 736H262L280 700Z" fill="#F2C067" fill-opacity="0.62"/>
+  <path d="M392 792V742H440V792H392Z" fill="#D9EDF5" fill-opacity="0.3"/>
+  <path d="M414 712L440 742H388L414 712Z" fill="#D9EDF5" fill-opacity="0.3"/>
+  <path d="M1010 792V734H1058V792H1010Z" fill="#D9EDF5" fill-opacity="0.3"/>
+  <path d="M1034 702L1058 734H1010L1034 702Z" fill="#D9EDF5" fill-opacity="0.3"/>
+
+  <rect x="250" y="140" width="900" height="620" rx="34" fill="url(#card)"/>
+  <rect x="300" y="210" width="350" height="220" rx="24" fill="#FFFFFF"/>
+  <rect x="300" y="460" width="350" height="250" rx="24" fill="#FFFFFF"/>
+  <rect x="690" y="210" width="410" height="500" rx="24" fill="#FFFFFF"/>
+
+  <path d="M355 360C420 300 455 300 520 360C560 395 595 395 645 350" stroke="url(#line)" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="355" cy="360" r="13" fill="#0F8A8D"/>
+  <circle cx="520" cy="360" r="13" fill="#0F8A8D"/>
+  <circle cx="645" cy="350" r="13" fill="#F2B84B"/>
+
+  <path d="M755 330H1020" stroke="#E7F1F6" stroke-width="12" stroke-linecap="round"/>
+  <path d="M755 392H980" stroke="#E7F1F6" stroke-width="12" stroke-linecap="round"/>
+  <path d="M755 454H930" stroke="#E7F1F6" stroke-width="12" stroke-linecap="round"/>
+
+  <circle cx="885" cy="620" r="64" stroke="#0F8A8D" stroke-width="8"/>
+  <circle cx="885" cy="620" r="12" fill="#0F8A8D"/>
+  <circle cx="970" cy="620" r="12" fill="#F2B84B"/>
+  <circle cx="842" cy="688" r="12" fill="#F2B84B"/>
+  <path d="M885 620L970 620" stroke="#0F8A8D" stroke-width="6"/>
+  <path d="M885 620L842 688" stroke="#0F8A8D" stroke-width="6"/>
+  <path d="M970 620L842 688" stroke="#0F8A8D" stroke-width="6"/>
+
+  <rect x="335" y="505" width="280" height="18" rx="9" fill="#D8E9F1"/>
+  <rect x="335" y="544" width="210" height="18" rx="9" fill="#D8E9F1"/>
+  <rect x="335" y="583" width="240" height="18" rx="9" fill="#D8E9F1"/>
+  <rect x="335" y="622" width="178" height="18" rx="9" fill="#D8E9F1"/>
+
+  <path d="M1095 118C1095 93 1115 73 1140 73C1165 73 1185 93 1185 118C1185 151 1140 189 1140 189C1140 189 1095 151 1095 118Z" fill="#F2B84B"/>
+  <circle cx="1140" cy="117" r="14" fill="#11496B"/>
+  <text x="1198" y="126" fill="#E9F5FA" font-family="'Manrope', 'Arial', sans-serif" font-size="26" font-weight="700">Oxford</text>
+</svg>
